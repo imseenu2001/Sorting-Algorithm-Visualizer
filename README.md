@@ -1,2 +1,6 @@
 # Sorting-Algorithm-Visualizer
-Visual representation of bubble, selection, insertion, merge, quick, heap and other sorting algorithms and their time and space complexities metrics.
+Visually representated bubble, selection, insertion, merge, quick, heap and other sorting algorithms and their time and space complexity metrics.
+
+# Tech stack
+Python, Flask, HTML5, CSS3 and JavaScript.
+
